@@ -1,0 +1,8 @@
+E:\7_sem\ZInf\Enigma\Enigma\bin\Debug\Enigma.exe.config
+E:\7_sem\ZInf\Enigma\Enigma\bin\Debug\Enigma.exe
+E:\7_sem\ZInf\Enigma\Enigma\bin\Debug\Enigma.pdb
+E:\7_sem\ZInf\Enigma\Enigma\obj\Debug\Enigma.csprojResolveAssemblyReference.cache
+E:\7_sem\ZInf\Enigma\Enigma\obj\Debug\Enigma.exe
+E:\7_sem\ZInf\Enigma\Enigma\obj\Debug\Enigma.pdb
+E:\7_sem\ZInf\Enigma\Enigma\bin\Debug\nunit.framework.dll
+E:\7_sem\ZInf\Enigma\Enigma\bin\Debug\nunit.framework.xml
